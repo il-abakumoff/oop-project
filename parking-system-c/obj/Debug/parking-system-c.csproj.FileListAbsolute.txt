@@ -1,0 +1,11 @@
+D:\DEVELOPE\ystu\ystu-oop\parking-system-c\parking-system-c\obj\Debug\parking-system-c.csproj.AssemblyReference.cache
+D:\DEVELOPE\ystu\ystu-oop\parking-system-c\parking-system-c\obj\Debug\parking-system-c.csproj.SuggestedBindingRedirects.cache
+D:\DEVELOPE\ystu\ystu-oop\parking-system-c\parking-system-c\obj\Debug\parking_system_c.Properties.Resources.resources
+D:\DEVELOPE\ystu\ystu-oop\parking-system-c\parking-system-c\obj\Debug\parking-system-c.csproj.GenerateResource.cache
+D:\DEVELOPE\ystu\ystu-oop\parking-system-c\parking-system-c\obj\Debug\parking-system-c.csproj.CoreCompileInputs.cache
+D:\DEVELOPE\ystu\ystu-oop\parking-system-c\parking-system-c\bin\Debug\parking-system-c.exe.config
+D:\DEVELOPE\ystu\ystu-oop\parking-system-c\parking-system-c\bin\Debug\parking-system-c.exe
+D:\DEVELOPE\ystu\ystu-oop\parking-system-c\parking-system-c\bin\Debug\parking-system-c.pdb
+D:\DEVELOPE\ystu\ystu-oop\parking-system-c\parking-system-c\obj\Debug\parking-system-c.exe
+D:\DEVELOPE\ystu\ystu-oop\parking-system-c\parking-system-c\obj\Debug\parking-system-c.pdb
+D:\DEVELOPE\ystu\ystu-oop\parking-system-c\parking-system-c\obj\Debug\parking_system_c.Form1.resources

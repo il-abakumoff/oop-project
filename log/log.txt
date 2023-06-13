@@ -1,0 +1,81 @@
+
+13.06.2023 18:23:09: NEW SESSION, ALL SPOTS ARE AVAILABLE
+-----------------------------------
+13.06.2023 13:47:07, parked: Пикап Розовый, номер автомобиля: H861KH, parkspot: 1
+13.06.2023 13:47:08, parked: Хэтчбек Белый, номер автомобиля: E837EO, parkspot: 2
+13.06.2023 13:47:20, parked: Минивэн Белый, номер автомобиля: P878PK, parkspot: 5
+
+13.06.2023 13:49:11: NEW SESSION, ALL SPOTS ARE AVAILABLE
+-----------------------------------
+
+13.06.2023 13:49:14: NEW SESSION, ALL SPOTS ARE AVAILABLE
+-----------------------------------
+13.06.2023 13:49:17, parked: Универсал Желтый, номер автомобиля: X313KH, parkspot: 1
+13.06.2023 13:49:18, parked: Хэтчбек Коричневый, номер автомобиля: Y540CY, parkspot: 2
+13.06.2023 13:49:20, parked: Автобус Красный, номер автомобиля: C766BK, parkspot: 3
+13.06.2023 13:49:23, removed: Универсал Желтый, номер автомобиля: X313KH, parkspot: 1
+13.06.2023 13:49:26, removed: Автобус Красный, номер автомобиля: C766BK, parkspot: 3
+
+13.06.2023 16:21:23: NEW SESSION, ALL SPOTS ARE AVAILABLE
+-----------------------------------
+13.06.2023 16:24:09, parked: Минивэн Фиолетовый, номер автомобиля: H489HB, parkspot: 1
+
+13.06.2023 17:11:43: NEW SESSION, ALL SPOTS ARE AVAILABLE
+-----------------------------------
+
+13.06.2023 17:12:15: NEW SESSION, ALL SPOTS ARE AVAILABLE
+-----------------------------------
+
+13.06.2023 17:56:15: NEW SESSION, ALL SPOTS ARE AVAILABLE
+-----------------------------------
+
+13.06.2023 17:56:19: NEW SESSION, ALL SPOTS ARE AVAILABLE
+-----------------------------------
+
+13.06.2023 17:57:02: NEW SESSION, ALL SPOTS ARE AVAILABLE
+-----------------------------------
+
+13.06.2023 17:57:51: NEW SESSION, ALL SPOTS ARE AVAILABLE
+-----------------------------------
+
+13.06.2023 18:00:26: NEW SESSION, ALL SPOTS ARE AVAILABLE
+-----------------------------------
+
+13.06.2023 18:00:37: NEW SESSION, ALL SPOTS ARE AVAILABLE
+-----------------------------------
+
+13.06.2023 18:02:22: NEW SESSION, ALL SPOTS ARE AVAILABLE
+-----------------------------------
+
+13.06.2023 18:02:49: NEW SESSION, ALL SPOTS ARE AVAILABLE
+-----------------------------------
+
+13.06.2023 18:03:43: NEW SESSION, ALL SPOTS ARE AVAILABLE
+-----------------------------------
+
+13.06.2023 18:03:51: NEW SESSION, ALL SPOTS ARE AVAILABLE
+-----------------------------------
+
+13.06.2023 18:04:22: NEW SESSION, ALL SPOTS ARE AVAILABLE
+-----------------------------------
+
+13.06.2023 18:04:30: NEW SESSION, ALL SPOTS ARE AVAILABLE
+-----------------------------------
+
+13.06.2023 18:04:36: NEW SESSION, ALL SPOTS ARE AVAILABLE
+-----------------------------------
+
+13.06.2023 18:04:50: NEW SESSION, ALL SPOTS ARE AVAILABLE
+-----------------------------------
+
+13.06.2023 18:04:58: NEW SESSION, ALL SPOTS ARE AVAILABLE
+-----------------------------------
+
+13.06.2023 18:05:13: NEW SESSION, ALL SPOTS ARE AVAILABLE
+-----------------------------------
+
+13.06.2023 18:05:40: NEW SESSION, ALL SPOTS ARE AVAILABLE
+-----------------------------------
+
+13.06.2023 18:06:43: NEW SESSION, ALL SPOTS ARE AVAILABLE
+-----------------------------------
